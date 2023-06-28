@@ -16,12 +16,8 @@ Data **security** and **safety**, **offline** mode, fantastic **performance** an
 
 ## More
 
-A full review about app you can read in a dedicated [article](https://habr.com/ru/articles/743556/)
-
-## Trust
-
-This is official repo for [app](), distributed in AppStore. So all Apple requirements are satisfied.
+A full review about app you can read in a dedicated [article](https://habr.com/ru/articles/743556/).
 
 ## Support
 
-To support development you can buy [app]() in AppStore.
+This is official repo for application, distributed in AppStore. To support development you can buy [app]() in AppStore.
