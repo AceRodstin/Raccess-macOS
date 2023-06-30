@@ -13,6 +13,7 @@ Data **security** and **safety**, **offline** mode, fantastic **performance** an
 - Recovery support
 - Previous versions compatability
 - Lock with application password
+- Password generation
 
 ## More
 
@@ -20,4 +21,4 @@ A full review about app you can read in a dedicated [article](https://habr.com/r
 
 ## Support
 
-This is official repo for application, distributed in AppStore. To support development you can buy [app]() in AppStore.
+This is official repo for application, distributed in AppStore. To support development you can buy [app](https://apps.apple.com/app/raccess/id6449519917) in AppStore.
