@@ -26,6 +26,6 @@ Data **security** and **safety**, **offline** mode, fantastic **performance** an
 
 A full review about app you can read in a dedicated [article](https://habr.com/ru/articles/743556/).
 
-## Поддержка
+## Support
 
 The product create with accordance to program "Ethical Software" and distributed freely. Those who wish to support the product can help in propagation.
