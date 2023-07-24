@@ -1,1 +1,1 @@
-Application repostiory was migrated to another destination[https://git.acerodstin.ru/AceRodstin/Raccess-macOS]
+Application repostiory was migrated to another [destination](https://git.acerodstin.ru/AceRodstin/Raccess-macOS)
